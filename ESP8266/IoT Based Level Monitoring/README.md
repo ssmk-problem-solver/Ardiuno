@@ -17,5 +17,4 @@ FOR MORE:
 
 
 
-![image](https://github.com/ssmk-problem-solver/Ardiuno-ESP-Projects/assets/172963811/941ed444-f859-434a-bcf3-cd851f8a6e1a)
-
+![image](https://github.com/ssmk-problem-solver/Ardiuno-ESP-Projects/assets/172963811/c2748a55-d52e-4cba-a93f-a732cafcd92a)
